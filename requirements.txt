@@ -48,7 +48,7 @@ prometheus-client==0.7.1
 prompt-toolkit==1.0.18
 ptyprocess==0.6.0
 pycocotools==2.0.0
-Pygments==2.5.2
+Pygments==2.7.4
 pymongo==3.10.1
 pyparsing==2.4.6
 pyrsistent==0.16.0
